@@ -10,14 +10,14 @@ Visit my personal website for more info: [https://www.bashcole.com](https://www.
 
 You can check out the following repositories/projects:
 
-### Spendee
+### Spendee (Track your income and expenses, analyze your financial habits and stick to your budgets)
 - [https://github.com/bashcole/spendee](https://github.com/bashcole/spendee) Stack: Node.js, Express.js, MongoDB
 - [https://github.com/bashcole/spendee-client](https://github.com/bashcole/spendee-client) Stack: React.js, Next.js, Typescript
 
 ##### Laravel version
 - [https://github.com/bashcole/spendee-laravel](https://github.com/bashcole/spendee-laravel) Stack: Laravel, MySQL
 
-### Coin tracker
+### Coin tracker (Get notified when the price drops, don't miss the chance of becoming a gazillionaire!)
 - [https://github.com/bashcole/coin-tracker-vue](https://github.com/bashcole/coin-tracker-vue) Stack: Vue.js, Typescript
 - [https://github.com/bashcole/coin-tracker-react](https://github.com/bashcole/coin-tracker-react) Stack: React.js, Next.js, Typescript
 - [https://github.com/bashcole/coin-tracker](https://github.com/bashcole/coin-tracker) Stack: Laravel, MySQL
