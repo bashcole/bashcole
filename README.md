@@ -21,3 +21,7 @@ You can check out the following repositories/projects:
 - [https://github.com/bashcole/coin-tracker-vue](https://github.com/bashcole/coin-tracker-vue) Stack: Vue.js, Typescript
 - [https://github.com/bashcole/coin-tracker-react](https://github.com/bashcole/coin-tracker-react) Stack: React.js, Next.js, Typescript
 - [https://github.com/bashcole/coin-tracker](https://github.com/bashcole/coin-tracker) Stack: Laravel, MySQL
+
+### Bingo
+- [https://github.com/bashcole/bingo](https://github.com/bashcole/bingo) Stack: React.js, Typescript, Cypress for tests
+- [https://github.com/bashcole/bingo-api](https://github.com/bashcole/bingo-api) Stack: Laravel, MySQL
